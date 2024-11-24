@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FoodOrderApp</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign up</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="full_name">Full Name</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="username">Username</string>
+    <string name="password_input_field">Password input field</string>
+    <string name="restaurant_name">Restaurant Name</string>
+    <string name="restaurant_description">Restaurant Description</string>
+    <string name="food_image">Food Image</string>
+</resources>

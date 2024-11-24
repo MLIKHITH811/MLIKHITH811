@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/welcome_background">
+
+    <!-- Welcome Title -->
+    <TextView
+        android:id="@+id/welcomeTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Welcome to Food Order App"
+        android:textColor="@android:color/white"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_marginTop="80dp" />  <!-- Added margin at the top -->
+
+    <!-- Description Text -->
+    <TextView
+        android:id="@+id/welcomeDescription"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Order your favorite food from the best restaurants"
+        android:textSize="16sp"
+        android:textColor="@android:color/white"
+        android:layout_marginTop="16dp" /> <!-- Added margin between title and description -->
+
+    <!-- Spacer to take up available space -->
+    <View
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1" />  <!-- This spacer will push the button to the bottom -->
+
+    <!-- Get Started Button -->
+    <Button
+        android:id="@+id/buttonGetStarted"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Get Started"
+        android:textSize="18sp"
+        android:textColor="@android:color/white"
+        android:layout_marginBottom="40dp" />  <!-- Added margin to the bottom -->
+
+</LinearLayout>

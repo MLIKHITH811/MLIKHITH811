@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:gravity="center">
+
+    <!-- Heading for the Restaurant List -->
+    <TextView
+        android:id="@+id/headingRestaurantList"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Restaurant List"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:layout_marginBottom="16dp" />
+
+
+    <!-- RecyclerView for displaying the restaurant list -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerViewRestaurants"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</LinearLayout>
