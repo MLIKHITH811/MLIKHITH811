@@ -4,11 +4,11 @@ Welcome to my GitHub profile! I'm a passionate developer working on a variety of
 
 ## 💡 About Me
 - 🔭 Currently working on **Hari Vruksh Stat** (Tree Statistics Website)
-- 🌱 Learning **Docker, Kubernetes, and CI/CD Pipelines**
+- 🌱 Learning **Docker, CI/CD Pipelines, and AWS**
 - 👨‍💻 Experienced in **React, Spring Boot, JSP, MySQL, JDBC, Tailwind CSS**
 - 🎓 B.Tech-focused projects with **Student Attendance Management System, Retail Sales Prediction, Career Guidance Web App**
 - 📜 Completed **Career Essentials in Generative AI (Microsoft & LinkedIn)**
-- 🎯 Goal: Deploy scalable applications using **AWS, Docker, and Kubernetes**
+- 🎯 Goal: Deploy scalable applications using **AWS, Docker, and Cloud Technologies**
 
 ## 🔗 Projects
 - 🌳 **Hari Vruksh Stat** - Tree statistics tracking and management
@@ -27,8 +27,13 @@ Welcome to my GitHub profile! I'm a passionate developer working on a variety of
 ![JSP](https://img.shields.io/badge/JSP-%23F44336.svg?&style=flat&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?&style=flat&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?&style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?&style=flat&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?&style=flat&logo=amazon-aws&logoColor=white)
+
+## 💻 Coding Platforms
+- 🏆 [LeetCode](https://leetcode.com/your-profile)
+- 🏅 [CodeChef](https://www.codechef.com/users/your-profile)
+- 🎯 [HackerRank](https://www.hackerrank.com/your-profile)
+- 🚀 [GeeksforGeeks](https://auth.geeksforgeeks.org/user/your-profile)
 
 ## 📫 Let's Connect
 - 🌐 [LinkedIn](https://linkedin.com/in/your-profile)
